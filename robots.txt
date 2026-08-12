@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://iohangp.github.io/handbook-30yhrp/sitemap.xml
